@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 # Hi there👋! I'm [Shankar](https://www.github.com/ShankarKakumani) 🙋‍♂️
 
 
-_**LATEST UPDATE:**_ _ Intership at OSOS Private Limited 🥽.
+_**LATEST UPDATE:**_ _Intership at OSOS Private Limited_ .
 
 #### 🎍 Welcome to my hub 👨‍💻
 
 - 👨‍🎓 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
-- 👨‍💻 Mostly working on ❤️Android 💝MVVM 🔥Firebase!
+- 👨‍💻 Mostly working on ❤️Android ❤️MVVM ❤️REST
+- 
 - Loves 🎵 and 🛹.
 - Proud 🇮🇳.
 
