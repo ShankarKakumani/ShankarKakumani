@@ -25,7 +25,6 @@ _**LATEST UPDATE:**_ _Intership at OSOS Private Limited_ .
 - 👨‍🎓 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️MVVM ❤️REST
-- 
 - Loves 🎵 and 🛹.
 - Proud 🇮🇳.
 
