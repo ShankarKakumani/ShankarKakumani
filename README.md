@@ -23,7 +23,7 @@ _**LATEST UPDATE:**_ _Intership at OSOS Private Limited_ .
 #### 🎍 Welcome to my hub 👨‍💻
 
 - 👨‍🎓 ***#SelfTaught*** Developer.
-- 📱 Mobile App developer.
+- 📱 Android.
 - 👨‍💻 Mostly working on ❤️Android ❤️MVVM ❤️REST
 - Loves 🎵 and 🛹.
 - Proud 🇮🇳.
