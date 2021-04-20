@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there👋! I'm [Shankar](https://www.github.com/ShankarKakumani) 🙋‍♂️
+# Hi there👋! I'm [Shankar](https://www.linkedin.com/in/shankarkakumani) 🙋‍♂️
 
 
 _**LATEST UPDATE:**_ _Working with Kotlin_ .
