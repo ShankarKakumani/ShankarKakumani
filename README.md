@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there👋! I'm [Shankar](https://www.github.com/ShankarKakumani) 🙋‍♂️
 
 
-_**LATEST UPDATE:**_ _Intership at OSOS Private Limited_ .
+_**LATEST UPDATE:**_ _Working with Kotlin_ .
 
 #### 🎍 Welcome to my hub 👨‍💻
 
