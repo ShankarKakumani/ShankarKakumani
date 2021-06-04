@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### 🎍 Welcome to my hub 👨‍💻
 
-- 📱 Android.
+- 📱 Android Developer.
 - 👨‍💻 Working for Effiasoft
 - Loves 🎵 and 🛹.
 
