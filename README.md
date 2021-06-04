@@ -18,15 +18,12 @@ Here are some ideas to get you started:
 # Hi there👋! I'm [Shankar](https://www.linkedin.com/in/shankarkakumani) 🙋‍♂️
 
 
-_**LATEST UPDATE:**_ _Working with Kotlin_ .
 
 #### 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 ***#SelfTaught*** Developer.
 - 📱 Android.
-- 👨‍💻 Mostly working on ❤️Android ❤️MVVM ❤️REST
+- 👨‍💻 Working for Effiasoft
 - Loves 🎵 and 🛹.
-- Proud 🇮🇳.
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
