@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:shankar_kakumani/presentation/manager/color_manager.dart';
 import 'package:shankar_kakumani/presentation/views/work_in_porgress_screen.dart';
 import 'package:url_strategy/url_strategy.dart';
 
@@ -15,11 +16,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: ColorManager.backgroundColor,
+        ),
         useMaterial3: true,
       ),
       home: const WorkInProgressScreen(),
     );
   }
 }
-
