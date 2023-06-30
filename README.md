@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there👋! I'm [Shankar](https://www.linkedin.com/in/shankarkakumani) 🙋‍♂️
+# Hi there👋! I'm [Shankar Kakumani](https://www.linkedin.com/in/shankarkakumani) 🙋‍♂️
 
 
 
 #### 🎍 Welcome to my hub 👨‍💻
 
-- 📱 Android Developer.
+- 📱 Android & Flutter Developer.
 
 - Loves 🎵 and 🛹.
 
