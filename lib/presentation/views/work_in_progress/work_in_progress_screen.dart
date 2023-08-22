@@ -16,31 +16,26 @@ class WorkInProgressScreen extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.center,
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
+          Spacer(),
           SizedBox(
             child: Lottie.asset(
               AssetManager.workingAnimation,
             ),
           ),
-          DefaultTextStyle(
-            style: GoogleFonts.workSans(
-              fontSize: 30.0,
-              color: Colors.white,
-            ),
-            child: AnimatedTextKit(
-              totalRepeatCount: 1,
-              animatedTexts: [
-                TypewriterAnimatedText(
-                  'Hello there! I\'m Shankar',
-                  speed: const Duration(milliseconds: 150),
+          AnimatedTextKit(
+            animatedTexts: [
+              TypewriterAnimatedText(
+                'Hello there! I\'m Shankar',
+                speed: const Duration(milliseconds: 150),
+                textStyle: GoogleFonts.workSans(
+                  fontSize: 30.0,
+                  color: Colors.white,
                 ),
-              ],
-              onTap: () {
-                print("Tap Event");
-              },
-            ),
+              ),
+            ],
           ),
           const SizedBox(
-            height: 50,
+            height: 150,
             width: double.infinity,
           )
         ],
