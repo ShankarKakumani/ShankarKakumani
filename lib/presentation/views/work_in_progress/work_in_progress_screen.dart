@@ -10,35 +10,39 @@ class WorkInProgressScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: ColorManager.backgroundColor,
-      body: Column(
-        crossAxisAlignment: CrossAxisAlignment.center,
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Spacer(),
-          SizedBox(
-            child: Lottie.asset(
-              AssetManager.workingAnimation,
-            ),
-          ),
-          AnimatedTextKit(
-            animatedTexts: [
-              TypewriterAnimatedText(
-                'Hello there! I\'m Shankar',
-                speed: const Duration(milliseconds: 150),
-                textStyle: GoogleFonts.workSans(
-                  fontSize: 30.0,
-                  color: Colors.white,
-                ),
+    return Title(
+      title: "Shankar Kakumani | Dashboard",
+      color: Colors.white,
+      child: Scaffold(
+        backgroundColor: ColorManager.backgroundColor,
+        body: Column(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Spacer(),
+            SizedBox(
+              child: Lottie.asset(
+                AssetManager.workingAnimation,
               ),
-            ],
-          ),
-          const SizedBox(
-            height: 150,
-            width: double.infinity,
-          )
-        ],
+            ),
+            AnimatedTextKit(
+              animatedTexts: [
+                TypewriterAnimatedText(
+                  'Hello there! I\'m Shankar',
+                  speed: const Duration(milliseconds: 150),
+                  textStyle: GoogleFonts.workSans(
+                    fontSize: 30.0,
+                    color: Colors.white,
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(
+              height: 150,
+              width: double.infinity,
+            )
+          ],
+        ),
       ),
     );
   }
