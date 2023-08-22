@@ -7,11 +7,11 @@ class RouteManager {
     return [
       GetPage(
         name: AppRoutes.workInProgressScreen,
-        page: () => const WorkInProgressScreen(),
+        page: () => WorkInProgressScreen(),
       ),
       GetPage(
         name: AppRoutes.initialRoute,
-        page: () => const WorkInProgressScreen(),
+        page: () => WorkInProgressScreen(),
       ),
       GetPage(
         name: AppRoutes.dashboardScreen,
