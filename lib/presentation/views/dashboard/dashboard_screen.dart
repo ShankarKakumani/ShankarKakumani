@@ -25,7 +25,10 @@ class DashboardScreen extends StatelessWidget {
         return cubit;
       },
       child: Title(
-          title: "Shankar Kakumani", color: Colors.white, child: getScreenUI()),
+        title: "Shankar Kakumani",
+        color: Colors.white,
+        child: getScreenUI(),
+      ),
     );
   }
 
@@ -51,6 +54,7 @@ class DashboardScreen extends StatelessWidget {
             return SizedBox(
               child: Lottie.asset(
                 JsonManager.workingAnimation,
+                animate: state.playerState?.playing ?? false,
               ),
             );
           },
