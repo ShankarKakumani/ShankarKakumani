@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shankar_kakumani/presentation/manager/color_manager.dart';
 import 'package:shankar_kakumani/presentation/manager/route_manager.dart';
-import 'package:shankar_kakumani/presentation/views/work_in_progress/work_in_progress_screen.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});

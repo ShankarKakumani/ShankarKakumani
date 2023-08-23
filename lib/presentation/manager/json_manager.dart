@@ -1,5 +1,5 @@
 const String jsonPath = "assets/json";
 
-class AssetManager {
+class JsonManager {
   static const String workingAnimation = "$jsonPath/anim_working.json";
 }
