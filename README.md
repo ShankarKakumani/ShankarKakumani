@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
+Note: I am storing them here. Please don't ask me why. I want to. :-)
 ## 50 life lessons from an 80-year-old man.
 
 1. Have a firm handshake.
