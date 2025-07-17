@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📱 Android & Flutter Developer.
 - Loves Coding, 🎵 and 🛹.
-- Interested in Journalism and Cyber Security.
+- Interested in Farming & Cyber Security.
 
 
 <details>
