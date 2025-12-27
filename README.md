@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/shankarkakumani"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shankarkakumani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://play.google.com/store/apps/developer?id=Shankar+Chowdary"><img src="https://img.shields.io/badge/-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+  <a href="https://github.com/ShankarKakumani?tab=repositories"><img src="https://img.shields.io/github/stars/ShankarKakumani?style=for-the-badge&logo=github&color=181717" alt="GitHub Stars"/></a>
   <img src="https://komarev.com/ghpvc/?username=shankarkakumani&style=for-the-badge&color=2E7D32" alt="Profile Views"/>
 </p>
 
@@ -116,6 +117,9 @@ $ cat current_work.txt
   <a href="https://pub.dev/packages/inference">
     <img src="https://img.shields.io/pub/points/inference?logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
   </a>
+  <a href="https://pub.dev/packages/inference">
+    <img src="https://img.shields.io/pub/dm/inference?label=downloads&logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+  </a>
 </p>
 
 <p align="center">
@@ -127,6 +131,9 @@ $ cat current_work.txt
   </a>
   <a href="https://pub.dev/packages/flutter_quic">
     <img src="https://img.shields.io/pub/points/flutter_quic?logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+  </a>
+  <a href="https://pub.dev/packages/flutter_quic">
+    <img src="https://img.shields.io/pub/dm/flutter_quic?label=downloads&logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
   </a>
 </p>
 
