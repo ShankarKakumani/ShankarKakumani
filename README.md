@@ -6,7 +6,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shankarkakumani"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shankarkakumani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://play.google.com/store/apps/developer?id=Shankar+Chowdary"><img src="https://img.shields.io/badge/-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+  <a href="https://shankarkakumani.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ShankarKakumani?tab=repositories"><img src="https://img.shields.io/github/stars/ShankarKakumani?style=for-the-badge&logo=github&color=181717" alt="GitHub Stars"/></a>
   <img src="https://komarev.com/ghpvc/?username=shankarkakumani&style=for-the-badge&color=2E7D32" alt="Profile Views"/>
 </p>
@@ -38,7 +41,7 @@ $ cat current_work.txt
 
 ## Tech Stack
 
-#### Languages
+<h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -49,39 +52,43 @@ $ cat current_work.txt
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-#### Mobile
+<h4 align="center">Mobile</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/KMM-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-#### Web & Backend
+<h4 align="center">Web & Backend</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white"/>
 </p>
 
-#### Databases & Messaging
+<h4 align="center">Databases & Messaging</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
 </p>
 
-#### Tools & Architecture
+<h4 align="center">Tools & Architecture</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Clean%20Architecture-16A085?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shorebird-1389FD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
