@@ -1,6 +1,6 @@
 <!-- Header Banner with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=400&height=60&lines=Shankar+Kakumani" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&height=60&lines=Hello+there,+I'm+Shankar+Kakumani" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,19 +41,25 @@ object ShankarKakumani {
 
 ## Tech Stack
 
+#### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
+#### Frameworks & Platforms
 <p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/KMM-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+#### Tools & Services
+<p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -73,24 +79,11 @@ object ShankarKakumani {
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ShankarKakumani/quicrtc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShankarKakumani&repo=quicrtc&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShankarKakumani/inference">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShankarKakumani&repo=inference&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShankarKakumani/flutter_quic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShankarKakumani&repo=flutter_quic&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShankarKakumani?tab=repositories">View all repositories</a>
-</p>
+| Project | Description |
+|---------|-------------|
+| [quicrtc](https://github.com/ShankarKakumani/quicrtc) | Real-time communication library built in Rust, leveraging QUIC transport with Media over QUIC (MoQ) protocol |
+| [inference](https://github.com/ShankarKakumani/inference) | Zero-setup ML inference for Flutter using Rust engines (Candle, Linfa) |
+| [flutter_quic](https://github.com/ShankarKakumani/flutter_quic) | QUIC transport protocol implementation for Flutter |
 
 ---
 
@@ -118,35 +111,6 @@ object ShankarKakumani {
   <a href="https://pub.dev/packages/flutter_quic">
     <img src="https://img.shields.io/pub/points/flutter_quic?logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
   </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarKakumani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShankarKakumani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarKakumani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShankarKakumani&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShankarKakumani/ShankarKakumani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
