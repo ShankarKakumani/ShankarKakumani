@@ -116,31 +116,31 @@ $ cat current_work.txt
 
 <p align="center">
   <a href="https://pub.dev/packages/inference">
-    <img src="https://img.shields.io/pub/v/inference?label=inference&logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+    <img src="https://img.shields.io/pub/v/inference?label=inference&logo=dart&logoColor=white&color=02569B&style=flat-square"/>
   </a>
   <a href="https://pub.dev/packages/inference">
-    <img src="https://img.shields.io/pub/likes/inference?logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+    <img src="https://img.shields.io/pub/likes/inference?logo=dart&logoColor=white&color=02569B&style=flat-square"/>
   </a>
   <a href="https://pub.dev/packages/inference">
-    <img src="https://img.shields.io/pub/points/inference?logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+    <img src="https://img.shields.io/pub/points/inference?logo=dart&logoColor=white&color=02569B&style=flat-square"/>
   </a>
   <a href="https://pub.dev/packages/inference">
-    <img src="https://img.shields.io/pub/dm/inference?label=downloads&logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+    <img src="https://img.shields.io/pub/dm/inference?label=downloads&logo=dart&logoColor=white&color=02569B&style=flat-square"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://pub.dev/packages/flutter_quic">
-    <img src="https://img.shields.io/pub/v/flutter_quic?label=flutter_quic&logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+    <img src="https://img.shields.io/pub/v/flutter_quic?label=flutter_quic&logo=dart&logoColor=white&color=02569B&style=flat-square"/>
   </a>
   <a href="https://pub.dev/packages/flutter_quic">
-    <img src="https://img.shields.io/pub/likes/flutter_quic?logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+    <img src="https://img.shields.io/pub/likes/flutter_quic?logo=dart&logoColor=white&color=02569B&style=flat-square"/>
   </a>
   <a href="https://pub.dev/packages/flutter_quic">
-    <img src="https://img.shields.io/pub/points/flutter_quic?logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+    <img src="https://img.shields.io/pub/points/flutter_quic?logo=dart&logoColor=white&color=02569B&style=flat-square"/>
   </a>
   <a href="https://pub.dev/packages/flutter_quic">
-    <img src="https://img.shields.io/pub/dm/flutter_quic?label=downloads&logo=dart&logoColor=white&color=02569B&style=for-the-badge"/>
+    <img src="https://img.shields.io/pub/dm/flutter_quic?label=downloads&logo=dart&logoColor=white&color=02569B&style=flat-square"/>
   </a>
 </p>
 
